@@ -16,6 +16,7 @@ public class Sieve {
 		}
 		
 		for (int i = 2; i < n; i++)
+			
 		
 		{while (i<n)
 		{i = i + i;
